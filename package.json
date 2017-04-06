@@ -1,0 +1,8 @@
+{
+  "name": "export-svg-from-font",
+  "version": "0.0.1",
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "svgfont2svgicons": "latest"
+  }
+}
